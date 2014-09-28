@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="lib" path="I:/i北林/代码/sdk/android-async-http-1.4.4-fix.jar"/>
+	<classpathentry kind="lib" path="I:/i北林/代码/sdk/avoscloud-v2.6.0.jar"/>
+	<classpathentry kind="lib" path="I:/i北林/代码/sdk/avosfeedback-v2.6.0.zip"/>
+	<classpathentry kind="lib" path="I:/i北林/代码/sdk/avospush-v2.6.0.jar"/>
+	<classpathentry kind="lib" path="I:/i北林/代码/sdk/avossearch-v2.6.0.zip"/>
+	<classpathentry kind="lib" path="I:/i北林/代码/sdk/avosstatistics-v2.6.0.jar"/>
+	<classpathentry kind="lib" path="I:/i北林/代码/sdk/fastjson.jar"/>
+	<classpathentry kind="lib" path="I:/i北林/代码/sdk/httpmime-4.2.4.jar"/>
+	<classpathentry kind="lib" path="I:/i北林/代码/sdk/jsoup-1.7.3.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
